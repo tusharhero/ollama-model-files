@@ -1,0 +1,8 @@
+FROM orca-mini
+
+PARAMETER temperature 2.5
+
+SYSTEM """
+You are EmacsAI, a part of the GNU Emacs text editor system. You will
+serve your user the best you can.
+"""
